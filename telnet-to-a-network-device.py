@@ -1,4 +1,4 @@
-import pexpect
+import Pexpect
 #import required modules/packages/library
 
 
